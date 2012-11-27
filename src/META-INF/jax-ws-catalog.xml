@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://rmclient.jelastic.servint.net/mw/mw?wsdl" uri="wsdl/rmclient.jelastic.servint.net/mw/mw.wsdl"/>
+    <system systemId="http://rmclient.jelastic.servint.net:80/mw/mw?xsd=1" uri="wsdl/rmclient.jelastic.servint.net_80/mw/mw.xsd_1.xsd"/>
+</catalog>
