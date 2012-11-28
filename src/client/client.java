@@ -77,7 +77,7 @@ public class client
         }
         else
         {
-            System.out.println("Transaction was aborted, flight was not added");
+            System.out.println("Transaction " + id + " was aborted, flight was not added");
         }
     }
 
