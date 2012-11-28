@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://rmclient.jelastic.servint.net/rm/rmcar?wsdl" uri="wsdl/rmclient.jelastic.servint.net/rm/rmcar.wsdl"/>
+    <system systemId="http://rmclient.jelastic.servint.net:80/rm/rmcar?xsd=1" uri="wsdl/rmclient.jelastic.servint.net_80/rm/rmcar.xsd_1.xsd"/>
+    <system systemId="http://rmcar.jelastic.servint.net/rm/rmcar?wsdl" uri="wsdl/rmcar.jelastic.servint.net/rm/rmcar.wsdl"/>
+    <system systemId="http://rmcar.jelastic.servint.net:80/rm/rmcar?xsd=1" uri="wsdl/rmcar.jelastic.servint.net_80/rm/rmcar.xsd_1.xsd"/>
+</catalog>
